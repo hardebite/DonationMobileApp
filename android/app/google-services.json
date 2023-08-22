@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091427314283",
+    "project_id": "donation-application-bb8ea",
+    "storage_bucket": "donation-application-bb8ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091427314283:android:198714f8e9210458789f2e",
+        "android_client_info": {
+          "package_name": "com.donationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091427314283-48ocnsl1ia5ennefuac9k587bdpmp016.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1inC8jras-5zISddQI_siCAdWBFj5Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091427314283-48ocnsl1ia5ennefuac9k587bdpmp016.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
